@@ -1,0 +1,19 @@
+/NOPR
+*SET,N_CASOS_ESTUDIO,  2.000000000000    
+WFPARM,N_CASOS_ESTUDIO,TIME, 20221031.091905
+*SET,_BUTTON ,  1.000000000000    
+*SET,_GUI_CLR_BG,' systemButtonFace               '
+*SET,_GUI_CLR_FG,' systemButtonText               '
+*SET,_GUI_CLR_INFOBG,' systemInfoBackground           '
+*SET,_GUI_CLR_SEL,' systemHighlight                '
+*SET,_GUI_CLR_SELBG,' systemHighlight                '
+*SET,_GUI_CLR_SELFG,' systemHighlightText            '
+*SET,_GUI_CLR_WIN,' systemWindow                   '
+*SET,_GUI_FNT_FMLY,'Arial                           '
+*SET,_GUI_FNT_PXLS,  16.00000000000    
+*SET,_GUI_FNT_SLNT,'r                               '
+*SET,_GUI_FNT_WEGT,'medium                          '
+*SET,_RETURN ,  0.000000000000    
+*SET,_STATUS ,  1.000000000000    
+*SET,_UIQR   ,  181.0000000000    
+/GO  

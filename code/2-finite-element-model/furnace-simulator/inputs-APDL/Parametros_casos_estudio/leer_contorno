@@ -1,0 +1,2 @@
+*VREAD,Condiciones_Temperaturas,nombre_fichero_contorno,'txt',' ',IJK,2,1,1,1,   		!leer el fichero y guardarlo en un array
+(5f6.0) 												!este codigo hace referencia al formato del texto, es una chapuza,

@@ -1,0 +1,2 @@
+*VREAD,Propiedades_material,'Propiedades_material','txt',' ',IJK,4,1,1,1,   	!leer el fichero y guardarlo en un array
+(5f6.0) 									!este codigo hace referencia al formato del texto, es una chapuza,

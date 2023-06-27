@@ -1,0 +1,2 @@
+conductividad,calor_especifico,densidad,coef_conv_air_acero
+20,1000,7850,25

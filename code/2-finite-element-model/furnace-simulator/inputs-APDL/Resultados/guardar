@@ -1,0 +1,2 @@
+*MWRITE,RDATA,nombre_guardar,txt,,JIK,5,51,1
+(98(F15.4))											!este codigo hace referencia al formato del texto, es una chapuza,
