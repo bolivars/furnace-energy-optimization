@@ -11,9 +11,9 @@ These goals have been accomplished using real-world data provided by Global Stee
 ## Repository Structure
 The structure of this repository is as follows:
 
-* `data`: this folder comprises all the data utilized in this project, encompassing both the raw and preprocessed versions of the data.
+* `data`: this folder includes all the data utilized in this project, encompassing both the raw and preprocessed versions of the data.
   
-* `code`: this folder include all the scripts developed for this project. It specifically consists of the following subdirectories:
+* `code`: this folder includes all the scripts developed for this project. It specifically consists of the following subdirectories:
 
     - `1-preprocessing`: this directory contains the scripts used for data preprocessing.
 
